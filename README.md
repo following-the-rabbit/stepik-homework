@@ -1,2 +1,1 @@
-# stepik-home
-first apgrade
+Мои решения задач на курсе Stepik "Автоматизация тестирования с помощью Selenium и Python"
